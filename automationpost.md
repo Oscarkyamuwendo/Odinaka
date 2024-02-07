@@ -29,7 +29,7 @@ To overcome the challenges mentioned above, consider implementing automation sol
 #!/bin/bash
 
 # Specify the commit message
-commit_message="Just made a push"
+commit_message = "Just made a push"
 
 # Add changes to the staging area
 git add .
